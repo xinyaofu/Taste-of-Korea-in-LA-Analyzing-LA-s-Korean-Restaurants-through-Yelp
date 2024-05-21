@@ -15,7 +15,7 @@ If you haven't already, install anaconda from https://www.anaconda.com/download
 ### Step 2: Clone the Repository
 Clone this repository to your device, you can run: <br>
 git clone https://github.com/xinyaofu/Analyzing-LA-Korean-Restaurants-through-Yelp.git <br> 
-cd final-project-xinyaofu
+cd Analyzing-LA-Korean-Restaurants-through-Yelp
 
 ### Step 3: Create the Conda Environment
 Create a new Conda environment with Python 3.11, you can run: <br>  
