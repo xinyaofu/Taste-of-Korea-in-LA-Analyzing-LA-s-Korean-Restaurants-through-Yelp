@@ -1,1 +1,1 @@
-# Taste-of-Korea-in-LA-Analyzing-LA-s-Korean-Restaurants-through-Yelp
+# Taste of Korea in LA: Analyzing LA’s Korean Restaurants through Yelp
